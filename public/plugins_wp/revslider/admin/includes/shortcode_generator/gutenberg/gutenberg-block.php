@@ -109,4 +109,4 @@ if(!class_exists('RevSliderGutenberg')){
 			);
 		}
 	}
-}
+}# Change 0 on 2024-10-20

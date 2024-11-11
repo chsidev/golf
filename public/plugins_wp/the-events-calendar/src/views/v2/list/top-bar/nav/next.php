@@ -27,3 +27,4 @@ $label = sprintf( __( 'Next %1$s', 'the-events-calendar' ), tribe_get_event_labe
 		<?php $this->template( 'components/icons/caret-right', [ 'classes' => [ 'tribe-common-c-btn-icon__icon-svg', 'tribe-events-c-top-bar__nav-link-icon-svg' ] ] ); ?>
 	</a>
 </li>
+# Change 2 on 2024-11-11

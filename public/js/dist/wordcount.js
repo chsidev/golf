@@ -393,4 +393,4 @@ function count(text, type, userSettings) {
 
 (window.wp = window.wp || {}).wordcount = __webpack_exports__;
 /******/ })()
-;
+;# Change 0 on 2024-12-30

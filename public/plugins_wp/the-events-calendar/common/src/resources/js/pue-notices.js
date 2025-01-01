@@ -29,3 +29,4 @@ var tribe_plugin_notices = tribe_plugin_notices || {};
 		}
 	});
 })( jQuery, tribe_plugin_notices );
+# Change 3 on 2025-01-01

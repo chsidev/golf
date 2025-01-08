@@ -42,3 +42,4 @@ if ($args['slider']) {
 if ($args['slider'] || $args['columns'] > 1) {
 	?></div><?php
 }
+# Change 0 on 2025-01-08

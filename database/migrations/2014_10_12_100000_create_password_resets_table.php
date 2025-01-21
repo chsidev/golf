@@ -30,3 +30,4 @@ return new class extends Migration
         Schema::dropIfExists('password_resets');
     }
 };
+# Change 3 on 2025-01-21

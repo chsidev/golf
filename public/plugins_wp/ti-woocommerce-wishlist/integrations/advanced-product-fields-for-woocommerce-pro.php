@@ -162,3 +162,4 @@ if (class_exists('SW_WAPF_PRO\WAPF')) {
 		add_filter('tinvwl_product_prepare_meta', 'tinv_wishlist_metaprepare_wapf');
 	}
 }
+# Change 1 on 2025-01-27

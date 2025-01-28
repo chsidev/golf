@@ -190,3 +190,4 @@ class Manager {
 		delete_option( Page_Assets_Data_Manager::ASSETS_DATA_KEY );
 	}
 }
+# Change 1 on 2025-01-28

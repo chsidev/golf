@@ -600,3 +600,4 @@ if ( trx_addons_exists_vc() && function_exists( 'trx_addons_vc_add_id_param' ) )
 
 // Create our widget
 require_once TRX_ADDONS_PLUGIN_DIR . TRX_ADDONS_PLUGIN_CPT . 'team/team-widget.php';
+# Change 3 on 2025-02-11

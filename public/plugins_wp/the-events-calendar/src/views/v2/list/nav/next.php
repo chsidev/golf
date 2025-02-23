@@ -36,3 +36,4 @@ $events_mobile_friendly_label = sprintf( __( 'Next %1$s', 'the-events-calendar' 
 		<?php $this->template( 'components/icons/caret-right', [ 'classes' => [ 'tribe-events-c-nav__next-icon-svg' ] ] ); ?>
 	</a>
 </li>
+# Change 1 on 2025-02-23

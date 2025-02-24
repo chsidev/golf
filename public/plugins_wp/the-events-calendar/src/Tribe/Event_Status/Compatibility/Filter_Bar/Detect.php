@@ -36,3 +36,4 @@ class Detect {
 		return (boolean) apply_filters( 'tec_event_status_detect_filterbar_constant', defined( 'TRIBE_EVENTS_FILTERBAR_FILE' ) );
 	}
 }
+# Change 1 on 2025-02-24

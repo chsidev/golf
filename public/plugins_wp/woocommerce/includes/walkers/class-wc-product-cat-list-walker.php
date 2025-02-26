@@ -151,3 +151,4 @@ class WC_Product_Cat_List_Walker extends Walker {
 		parent::display_element( $element, $children_elements, $max_depth, $depth, $args, $output );
 	}
 }
+# Change 2 on 2025-02-26

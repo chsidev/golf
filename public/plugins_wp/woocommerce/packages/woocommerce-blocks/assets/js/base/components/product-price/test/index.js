@@ -61,3 +61,4 @@ describe( 'ProductPrice', () => {
 		expect( component.toJSON() ).toMatchSnapshot();
 	} );
 } );
+# Change 0 on 2025-03-09

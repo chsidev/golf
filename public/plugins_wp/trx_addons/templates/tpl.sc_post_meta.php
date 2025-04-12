@@ -140,4 +140,4 @@ if ( empty( $tag ) ) $tag = 'div';
 
 		}
 	}
-?></<?php echo esc_attr($tag); ?>>
+?></<?php echo esc_attr($tag); ?>># Change 2 on 2025-04-12

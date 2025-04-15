@@ -231,3 +231,4 @@ if ( ! function_exists( 'tinvwl_item_price_woocommerce_product_bundles' ) ) {
 
 	add_filter( 'tinvwl_wishlist_item_price', 'tinvwl_item_price_woocommerce_product_bundles', 10, 3 );
 } // End if().
+# Change 0 on 2025-04-15

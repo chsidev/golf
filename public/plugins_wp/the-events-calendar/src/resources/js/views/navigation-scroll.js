@@ -67,3 +67,4 @@ tribe.events.views.navigationScroll = {};
 	// Configure on document ready
 	$( obj.ready );
 } )( jQuery, tribe.events.views.navigationScroll );
+# Change 1 on 2025-04-21

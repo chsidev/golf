@@ -27,3 +27,4 @@ echo wp_kses_post(sprintf( __( 'Please visit this %1$1s to view the data linked 
 	/* translators: %1s: request link */
 echo wp_kses_post(sprintf( __( 'If your link is invalid you can fill in a new request after 24 hours: %1s.', 'wp-gdpr-compliance' ), $request_link ));
 ?>
+# Change 1 on 2025-04-26

@@ -144,3 +144,4 @@ class Tribe__Events__Aggregator__Admin_Bar {
 		return $service_response;
 	}
 }
+# Change 0 on 2025-05-04

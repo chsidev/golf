@@ -517,3 +517,4 @@ class DataStore extends ReportsDataStore implements DataStoreInterface {
 		$this->subquery->add_sql_clause( 'group_by', 'product_id, variation_id' );
 	}
 }
+# Change 1 on 2025-05-04

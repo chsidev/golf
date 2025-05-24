@@ -34,3 +34,4 @@ $n7_golf_club_post_format = empty( $n7_golf_club_post_format ) ? 'standard' : st
 		?>
 	</div>
 </div>
+# Change 1 on 2025-05-24

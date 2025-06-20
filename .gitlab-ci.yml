@@ -1,0 +1,20 @@
+image: docker
+
+services:
+  - docker:dind
+
+stages:
+  - deploy
+
+step-deploy-dev:
+  stage: deploy
+  only:
+    - main
+  script:
+    #- echo hello
+    - cp .env.example .env
+    #- . sslsetup.sh
+    - cd laradock
+    - docker-compose up -d nginx
+    - docker exec laradock_php-fpm_1 php artisan migrate:refresh --seed
+
